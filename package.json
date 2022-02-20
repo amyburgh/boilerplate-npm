@@ -1,6 +1,7 @@
 {
-	"author": "Aaron Myburgh",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Aaron Myburgh",
+	"description": "Quick lesson on npm json packages",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
