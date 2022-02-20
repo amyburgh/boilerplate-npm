@@ -4,6 +4,7 @@
 	"description": "Quick lesson on npm json packages",
 	"keywords": ["lesson", "@", "freecodecamp"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
