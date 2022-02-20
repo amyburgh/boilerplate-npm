@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Aaron Myburgh",
 	"description": "Quick lesson on npm json packages",
+	"keywords": ["lesson", "@", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
